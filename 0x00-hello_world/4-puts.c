@@ -10,7 +10,7 @@
 
 int main()
 {
-	char *message = "Programming is like building a multilingual puzzle";
+	char message[60] = "\"Programming is like building a multilingual puzzle";
 	
 	puts(message);
 
