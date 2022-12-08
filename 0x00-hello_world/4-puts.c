@@ -13,6 +13,5 @@ int main()
 	char message[60] = "\"Programming is like building a multilingual puzzle";
 	
 	puts(message);
-
 	return (0);
 }
