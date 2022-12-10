@@ -8,9 +8,10 @@
 
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-	char message[60] = "\"Programming is like building a multilingual puzzle";
-	puts(message);
+	char str[] = "\"Programming is like building a multilingual puzzle";
+
+	puts(str);
 	return (0);
 }
