@@ -20,6 +20,10 @@ int main(void)
 		{
 			putchar(num1 + '0');
 			putchar(num2 + '0');
+			if (num1 == 8 && num2 == 9)
+			{
+				continue;
+			}
 			putchar(',');
 			putchar(' ');
 		}
