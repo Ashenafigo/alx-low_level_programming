@@ -7,7 +7,7 @@
  *
  * print the last digit of the number
  *
- * return: alwaus 0 (Success)
+ * Return: always 0 (Success)
  *
  */
 
